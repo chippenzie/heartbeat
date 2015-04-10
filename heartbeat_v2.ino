@@ -35,6 +35,7 @@ void setup() {
     digitalWrite(systemLed, LOW);
 
     // set functions and listeners
+    String partner = '';
 
 
 
